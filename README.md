@@ -1,44 +1,62 @@
-# 🏦 Python Banking Program
+# 🏛️ Banking Program in Python
 
-A simple terminal-based banking system made using Python.  
-This project allows users to:
+A command-line banking application developed using Python.  
+This project simulates basic banking operations through an interactive terminal menu.
 
-- Check balance
-- Deposit money
-- Withdraw money
-- Exit the program safely
+## ✨ Features
 
-Built for practicing:
+- 💰 Deposit Money
+- 🏧 Withdraw Money
+- 📊 Check Account Balance
+- ⚠️ Invalid Input Handling
+- 🔒 Insufficient Balance Protection
+- 🖥️ Simple Menu-Based Interface
+
+## 📚 Concepts Used
+
+This project was built to practice core Python concepts such as:
+
 - Functions
-- Loops
-- Conditionals
-- User input handling
-- Basic Python logic
+- While loops
+- Conditional statements
+- User input validation
+- Formatted strings
+- Program flow control
 
-## 🚀 Features
+## 📂 Project Structure
 
-✅ Show Current Balance  
-✅ Deposit Money  
-✅ Withdraw Money  
-✅ Prevent Invalid Transactions  
-✅ Simple CLI Interface  
+```bash
+Banking_Program.py
+```
 
-## 🛠️ Technologies Used
-
-- Python 3
-
-## ▶️ Run The Program
+## ▶️ How to Run
 
 ```bash
 python Banking_Program.py
 ```
 
-## 📸 Screenshot
+## 🧠 Example Menu
 
-(Add screenshot here)
+```text
+#####################
+   Banking Program
+#####################
+1. Show Balance
+2. Deposit
+3. Withdraw
+4. Exit
+```
 
-## 📂 File
+## 📸 Preview
 
-Main program file: `Banking_Program.py`
+(Add screenshots here)
 
-Made with Python ❤️
+## 🚀 Future Improvements
+
+- Account login system
+- Transaction history
+- Data storage using files/database
+- Tax calculator
+- Multiple users support
+
+Built with ❤️ using Python
