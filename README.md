@@ -56,16 +56,20 @@ python Banking_Program.py
 # 📸 Screenshots
 
 ## Main Menu
-(Add screenshot here)
+<img width="381" height="301" alt="image" src="https://github.com/user-attachments/assets/09e97a23-432e-477b-a947-1bad12be97b3" />
 
 ## Deposit Function
-(Add screenshot here)
+<img width="364" height="128" alt="image" src="https://github.com/user-attachments/assets/3e78ebf9-5616-456c-b075-1bfb323575bb" />
 
 ## Withdraw Function
-(Add screenshot here)
+1.Insufficient Balance
+<img width="452" height="185" alt="image" src="https://github.com/user-attachments/assets/7c3a9341-a769-4eb0-95eb-208bd1304b44" />
+
+2.Sufficient Balance
+<img width="363" height="126" alt="image" src="https://github.com/user-attachments/assets/9cc40ed8-f61a-4ab6-a05d-a1be87275fca" />
 
 ## Balance Display
-(Add screenshot here)
+<img width="315" height="93" alt="image" src="https://github.com/user-attachments/assets/2edbf17e-ce34-4010-aa78-1e818fe7d5fe" />
 
 ---
 
