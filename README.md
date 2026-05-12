@@ -1,67 +1,97 @@
-# 💳 Python CLI Banking System
+# 🏦 Banking Program — Python CLI Project
 
-An interactive banking simulator built entirely in Python for the terminal.
+A modern command-line banking application developed using Python.  
+This project simulates basic banking operations like deposits, withdrawals, and balance checking directly from the terminal.
 
-This project demonstrates how basic banking operations work using a menu-driven command-line interface.
+---
 
-## 🔥 Features
+# ✨ Features
 
-✔️ Real-time balance updates  
-✔️ Deposit & withdrawal system  
-✔️ Input validation  
-✔️ Insufficient funds detection  
-✔️ Clean terminal UI  
-✔️ Beginner-friendly Python project  
+- 💵 Deposit Money
+- 💸 Withdraw Money
+- 📈 Check Current Balance
+- 🚫 Invalid Transaction Protection
+- 🧾 Clean CLI Banking Menu
+- ⚡ Fast & Lightweight
 
-## 🖥️ Demo
+---
+
+# 🛠️ Built With
+
+- Python 3
+- Terminal / CLI
+
+---
+
+# 📂 Project Structure
+
+```bash
+Banking_Program.py
+```
+
+---
+
+# ▶️ How To Run
+
+```bash
+python Banking_Program.py
+```
+
+---
+
+# 🖥️ Program Preview
 
 ```text
+#####################
+   Banking Program
+#####################
 1. Show Balance
 2. Deposit
 3. Withdraw
 4. Exit
 ```
 
-## ⚙️ Installation
+---
 
-Clone the repository:
+# 📸 Screenshots
 
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-```
+## Main Menu
+(Add screenshot here)
 
-Go to project folder:
+## Deposit Function
+(Add screenshot here)
 
-```bash
-cd YOUR_REPO
-```
+## Withdraw Function
+(Add screenshot here)
 
-Run the project:
+## Balance Display
+(Add screenshot here)
 
-```bash
-python Banking_Program.py
-```
+---
 
-## 📸 Screenshots
+# 📚 Concepts Practiced
 
-(Add screenshots below)
+- Python Functions
+- Loops
+- Conditional Statements
+- Input Validation
+- Financial Logic
+- CLI Application Design
 
-## 📌 Learning Outcomes
+---
 
-This project helped in understanding:
+# 🚀 Future Plans
 
-- Python functions
-- Loops and conditions
-- Financial transaction logic
-- User interaction in terminal
-- Error handling basics
+- Login & Authentication System
+- Transaction History
+- Database Integration
+- GUI Version
+- Multi-user Banking System
 
-## 🚧 Planned Updates
+---
 
-- GUI version using Tkinter
-- Database integration
-- User authentication
-- Transaction logs
-- Banking dashboard
+# ⭐ Support
 
-⭐ Star the repo if you like the project!
+If you liked this project, consider starring the repository!
+
+Made with ❤️ using Python
