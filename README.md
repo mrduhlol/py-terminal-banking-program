@@ -99,3 +99,8 @@ python Banking_Program.py
 If you liked this project, consider starring the repository!
 
 Made with ❤️ using Python
+
+<img width="1903" height="2293" alt="image" src="https://github.com/user-attachments/assets/1dd56adf-0f06-4891-adc5-cb5b703b0449" />
+<img width="1903" height="2293" alt="image" src="https://github.com/user-attachments/assets/d947a77d-0db8-44a3-a608-25cc7cecca98" />
+<img width="1903" height="2293" alt="image" src="https://github.com/user-attachments/assets/ad5bb469-3cfd-46a1-a82a-98791f476dac" />
+
